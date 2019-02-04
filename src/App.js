@@ -90,6 +90,7 @@ const Video = styled.video`
 const ParallaxContent = styled.div`
   position: relative;
   height: 100vh;
+  min-height: 650px;
 `;
 
 const ParallaxWrap = styled.div`
